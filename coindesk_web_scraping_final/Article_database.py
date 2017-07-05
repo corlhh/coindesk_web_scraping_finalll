@@ -160,4 +160,3 @@ class Article_database():
         select_format = ("SELECT COUNT(1) FROM sources WHERE website_url = %s")
         self.db_cursor.execute(select_format, (data,))
         return self.db_cursor.fetchone()[0]
-
