@@ -1,1 +1,2 @@
-# coindesk_web_scraping_finalll
+# Web Scraping for Coindesk Articles
+Extracted all articles on https://www.coindesk.com/.
